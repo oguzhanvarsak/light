@@ -1,4 +1,7 @@
+os: osx
 language: swift
-osx_image: xcode11.2
-script:
-    - xcodebuild -scheme light -project light.xcodeproj -sdk iphonesimulator -destination 'platform=iOS Simulator,name=iPhone 11 Pro,OS=13.2.2' build
+osx_image: xcode12.2
+xcode_project: light.xcodeproj
+xcode_scheme: light
+xcode_destination: platform=iOS Simulator,OS=14.2,name=iPhone 12 Pro Max
+script: CODE_SIGNING_REQUIRED=NO
