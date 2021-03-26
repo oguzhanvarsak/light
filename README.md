@@ -5,6 +5,7 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/oguzhanvarsak/light) [![Build Status](https://www.travis-ci.com/oguzhanvarsak/light.svg)](https://www.travis-ci.com/oguzhanvarsak/light) ![GitHub top language](https://img.shields.io/github/languages/top/oguzhanvarsak/light) ![Lines of code](https://img.shields.io/tokei/lines/github/oguzhanvarsak/light)
 
 ### Description
+------
 Simple Flashligh application for iOS
 
 Screenshots (while pressing) |
